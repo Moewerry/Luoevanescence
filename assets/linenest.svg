@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="190" viewBox="0 0 360 190" role="img" aria-label="LineNest — Image workspace">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#21162f"/><stop offset="1" stop-color="#302040"/></linearGradient></defs>
+<rect width="360" height="190" rx="12" fill="url(#b)"/><circle cx="310" cy="10" r="120" fill="#a78bfa" opacity=".04"/>
+<rect x="23" y="23" width="125" height="75" rx="6" fill="#b99af7" fill-opacity=".07" stroke="#b99af7" stroke-opacity=".5"/><path d="M64 23v75m42-75v75M23 60h125" stroke="#c5a8f5" stroke-width="1.5"/><rect x="66" y="25" width="38" height="33" fill="#c4a3fa" fill-opacity=".18"/><circle cx="64" cy="60" r="4" fill="#decaff"/>
+<text x="22" y="143" fill="#f4edff" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">LineNest</text>
+<text x="23" y="168" fill="#b3a1ca" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1.2">IMAGE WORKSPACE</text>
+<path d="m316 145 12-12m-12 0h12v12" fill="none" stroke="#bfa3ed" stroke-width="1.5"/>
+</svg>
