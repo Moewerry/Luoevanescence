@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/profile-banner.svg" width="100%" alt="Moewerry">
+  <img src="./assets/profile-banner.png" width="100%" alt="Moewerry">
 </p>
 
 我主要写前端，也做一些后端和桌面工具。
