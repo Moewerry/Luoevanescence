@@ -1,82 +1,38 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Moewerry — Small ideas. Useful things.">
+<p>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Moewerry">
 </p>
 
-<p align="center">
-  <b>把小想法，做成顺手的工具。</b><br>
-  <sub>Frontend &amp; backend · Web tools · Desktop apps</sub>
+我主要写前端，也做一些后端和桌面工具。
+
+## 最近做的东西
+
+- **[LineNest](https://github.com/Moewerry/LineNest)** — 在浏览器里画线分图、复用模板、批量裁剪，图片在本地处理。[在线使用](https://moewerry.github.io/LineNest/)
+- **[VoidCSV](https://github.com/Moewerry/VoidCSV)** — CSV / XLSX 文件查看器，支持小文件预览和大文件渐进索引。
+- **[ConchPort](https://github.com/Moewerry/ConchPort)** — 查询 Windows 端口占用，查看对应进程并释放端口。
+
+## 常用技术
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&amp;logo=vite&amp;logoColor=white" alt="Vite">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=express&amp;logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&amp;logo=electron&amp;logoColor=white" alt="Electron">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
 </p>
 
-<p align="center">
-  <a href="https://github.com/Moewerry?tab=repositories">探索项目 ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://moewerry.github.io/LineNest/">试用 LineNest ↗</a>
-</p>
+## 最近的提交
 
-<br>
-
-### 01 &nbsp; / &nbsp; SELECTED WORK
-<sub>一些从实际需求出发的小作品。</sub>
-
-<br>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Moewerry/LineNest"><img src="./assets/linenest.svg" width="100%" alt="LineNest — Image workspace"></a>
-      <br><br>
-      <b>LineNest</b><br>
-      <sub>画线分图、模板复用、批量裁剪。<br>图片在本地处理，创作留在浏览器。</sub>
-      <br><br>
-      <a href="https://moewerry.github.io/LineNest/"><b>在线使用 ↗</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Moewerry/VoidCSV"><img src="./assets/voidcsv.svg" width="100%" alt="VoidCSV — Data, in view"></a>
-      <br><br>
-      <b>VoidCSV</b><br>
-      <sub>CSV / XLSX 文件查看器。<br>小文件前端预览，大文件渐进索引。</sub>
-      <br><br>
-      <a href="https://github.com/Moewerry/VoidCSV"><b>查看仓库 ↗</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Moewerry/ConchPort"><img src="./assets/conchport.svg" width="100%" alt="ConchPort — Clear the port"></a>
-      <br><br>
-      <b>ConchPort</b><br>
-      <sub>Windows 端口占用查询与释放。<br>查看进程，释放被占用的端口。</sub>
-      <br><br>
-      <a href="https://github.com/Moewerry/ConchPort"><b>查看仓库 ↗</b></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 02 &nbsp; / &nbsp; TOOLBOX
-<sub>这些项目背后用到的技术。</sub>
-
-<br>
-
-<p><code>TypeScript</code> &nbsp; <code>JavaScript</code> &nbsp; <code>React</code> &nbsp; <code>Vite</code></p>
-<p><code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>Electron</code> &nbsp; <code>Docker</code> &nbsp; <code>Nginx</code></p>
-
-<br>
-
-### 03 &nbsp; / &nbsp; KEEP BUILDING
-<sub>一点点提交，一点点把想法填满。</sub>
-
-<br>
-
-<p align="center">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moewerry/Moewerry/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moewerry/Moewerry/output/github-contribution-grid-snake.svg">
-    <img alt="Moewerry 的紫色贡献贪吃蛇动画" src="https://raw.githubusercontent.com/Moewerry/Moewerry/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="Moewerry 的贡献贪吃蛇动画" src="https://raw.githubusercontent.com/Moewerry/Moewerry/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
-<br>
-
-<p align="center">
-  <sub>building things, breaking things, fixing things.</sub><br>
-  <sub>✦ &nbsp; Moewerry</sub>
-</p>
